@@ -1,5 +1,6 @@
 # versionmonitor
 ![Screenshot](http://i.imgur.com/BfEtG5w.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffeelepxyz%2Fversionmonitor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffeelepxyz%2Fversionmonitor?ref=badge_shield)
 
 > A server side watcher app for monitoring new versions of your software dependencies.
 
@@ -27,3 +28,7 @@ The following ways of being notified of new releases is currently supported:
 ## Contributing
 
 Feel free to open an issue or file an pull request - help is always welcome :-)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffeelepxyz%2Fversionmonitor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffeelepxyz%2Fversionmonitor?ref=badge_large)
